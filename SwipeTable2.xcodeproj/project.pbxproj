@@ -21,6 +21,7 @@
 		1F49F1E51D6AE684008C523D /* CusTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F49F1E41D6AE684008C523D /* CusTableView.m */; };
 		1F49F1E81D6AE87D008C523D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F49F1E61D6AE87D008C523D /* Main.storyboard */; };
 		1FD56D021D6E9954007B94E1 /* CusWebView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FD56D011D6E9954007B94E1 /* CusWebView.m */; };
+		1FD6B9A01D791EA5002BD5A8 /* swipte.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1FD6B99F1D791EA5002BD5A8 /* swipte.gif */; };
 		1FF055191D6C2CB40081FEFE /* CollectionCellModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FF055181D6C2CB40081FEFE /* CollectionCellModel.m */; };
 /* End PBXBuildFile section */
 
@@ -49,6 +50,7 @@
 		1F49F1E71D6AE87D008C523D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1FD56D001D6E9954007B94E1 /* CusWebView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CusWebView.h; sourceTree = "<group>"; };
 		1FD56D011D6E9954007B94E1 /* CusWebView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CusWebView.m; sourceTree = "<group>"; };
+		1FD6B99F1D791EA5002BD5A8 /* swipte.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = swipte.gif; sourceTree = "<group>"; };
 		1FF055171D6C2CB40081FEFE /* CollectionCellModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionCellModel.h; sourceTree = "<group>"; };
 		1FF055181D6C2CB40081FEFE /* CollectionCellModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionCellModel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -103,6 +105,7 @@
 				1FD56D001D6E9954007B94E1 /* CusWebView.h */,
 				1FD56D011D6E9954007B94E1 /* CusWebView.m */,
 				1F49F1E61D6AE87D008C523D /* Main.storyboard */,
+				1FD6B99F1D791EA5002BD5A8 /* swipte.gif */,
 				1F49F1C81D6AD522008C523D /* Assets.xcassets */,
 				1F49F1E11D6AE2BC008C523D /* IMG_0668.JPG */,
 				1F49F1CA1D6AD522008C523D /* LaunchScreen.storyboard */,
@@ -182,6 +185,7 @@
 				1F49F1E81D6AE87D008C523D /* Main.storyboard in Resources */,
 				1F49F1C91D6AD522008C523D /* Assets.xcassets in Resources */,
 				1F49F1DA1D6AD73A008C523D /* CollectionViewCell.xib in Resources */,
+				1FD6B9A01D791EA5002BD5A8 /* swipte.gif in Resources */,
 				1F49F1E21D6AE2BC008C523D /* IMG_0668.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
